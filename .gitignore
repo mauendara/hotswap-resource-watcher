@@ -20,4 +20,4 @@ hs_err_pid*
 /hotswapResourceWatcher/target/
 
 # add watcher.jar
-!watcher.jar
+!*watcher*.jar
