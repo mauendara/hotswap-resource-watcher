@@ -1,6 +1,6 @@
 hotswap-resource-watcher
 ==========================
-Java process to monitor changes in a directory. Made to be used with hotswap-agent and Wildfly, to sync source and deploy dirs.
+Java process to monitor changes in a directory. Made to be used with hotswap-agent and Wildfly, to sync source and deploy dirs for static resources (currently not working via plugin within hotswap-agent). 
 
 ### Hotswap-Agent
 Refer to [hotswapagent.org/mydoc_quickstart.html](http://hotswapagent.org/mydoc_quickstart.html) to install DCEVM and hotswap-agent.jar for JDK 8.
